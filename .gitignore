@@ -1,0 +1,9 @@
+# Ignore the Greek draft
+README_GR
+
+# OS generated files
+.DS_Store
+.directory
+*~
+*.swp
+*.tmp
